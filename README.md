@@ -15,4 +15,4 @@ The model environment is built according to the road_map.txt. As can be seen in 
 
 Simply download the python notebook and the road_map.txt (or make your own) file in the same directory and run all the cells. The code is commented so that you know what everything does, but many model parameters are customisable even without having to read the code. Simply change the parameters in the model and click reset to save changes. Then click run.
 
-![](ABM GIF.gif)
+![](ABMGIF.gif)
