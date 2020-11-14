@@ -1,7 +1,7 @@
 # Agent-Based-Simulation-Model
 ### Agent Based Simulation Model Created for CASA Dissertation 
 
-My dissertation looked to test the logistical viability of cargo e-bikes as a van replacement in high density urban areas at a micro level through an agent based model built in Python's Mesa library. In particular, the model simulated a single lane road where both vans and cargo bikes delivered parcels. 
+My dissertation looked to test the logistical viability of cargo e-bikes as a van replacement in high density urban areas at a micro level through an agent based model built in Python's Mesa library. In particular, the model simulated a single lane road where both vans and cargo bikes delivered parcels. This project was developed in partnership with Tryd.
 
 This is important as there is growing concern about the impact vans have on cities both in terms of traffic and pollution. The model produced presents a minimum baseline of the advantages cargo bikes introduce while also reducing the disadvantages of vans, resulting in a model that should have been drastically more favourable for vans. However, this was not the case and vans only had an advantage in a narrow set of simulations suggesting that a more accurate model should be far more advantageous for cargo bikes. 
 
